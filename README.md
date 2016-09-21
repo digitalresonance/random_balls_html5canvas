@@ -1,5 +1,7 @@
 # random_balls_html5canvas
-A HTML5 Canvas demonstration challenge to generate randomly coloured balls and shoot them in random directions with random speeds. Included canvas resizing and boundaries for the balls to bounce.
+A HTML5 Canvas demonstration challenge to generate randomly coloured balls and shoot them in random directions with random speeds. Includes canvas resizing and boundaries for the balls to bounce.
+This branch of the project includes calculations for gravity, friction and energy loss on bouning to slow and eventually stop the ball's movement.
+
 
 This Project is set up as a NodeJS project using the HAPI framework and configured to serve static files.
 The Project also uses GULP to provide automated build process and minification.
