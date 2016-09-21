@@ -1,0 +1,25 @@
+{
+  "name": "random_balls",
+  "version": "1.0.0",
+  "description": "A tech challenge to generate bouncing balls on mouse click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xavier Thomas",
+  "license": "ISC",
+  "dependencies": {
+    "hapi": "^11.1.4",
+    "inert": "^3.2.0",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "del": "^2.2.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-html-minifier": "^0.1.8",   
+    "gulp-minify-inline": "^0.2.1",
+	"gulp-strip-comments": "^2.4.2",
+    "gulp-rename": "^1.2.2"        
+  }
+}
