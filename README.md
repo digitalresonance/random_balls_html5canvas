@@ -12,6 +12,6 @@ Run 'Npm Install' to install the npm modules used in this project.
 Run 'gulp' to execute the automated minification and build process.
 run 'node index.js' to run the nodejs server
 
-browse to localhost:8080 to view the web application
+browse to localhost:8080 to view the web application or
 alternatively open the public/index.html file in your browser
 
